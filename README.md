@@ -1,2 +1,2 @@
-# Valida-o-de-cadastro
-validaçao de form de cadastro em PHP
+# Validação-de-cadastro
+validação de form de cadastro em PHP
